@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"baseline"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"co",
+				"col-xs-12"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"i",
+				"background-image"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"10px",
+				"10px"
+			],
+			[
+				"sli",
+				"slideDown"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"m",
+				"my-menu"
+			],
+			[
+				"po",
+				"positioning"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"counter-",
+				"counter-increment"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/contact.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/index.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/js/common.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/template_page.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/sass/main.sass",
+		"/E/Web/MENU/bootsrap3_submenu.html",
+		"/E/Web/ural-geologiya.ru/OptimizedHTML-4/readme.md",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/sass/_media.sass",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/price.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/gulpfile.js",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/gidrograficheskaya-semka.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/razbivochnye-raboty.html",
+		"/C/Users/user/Desktop/topoViolet.svg",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/geodeziya-uchastka.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/lineinyx-sooruzheniy.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/ispolnitelnaya-semka-avtodorogi.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/planovo-vysotnaya-semka.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/toposemka-gaz.html",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/mezhevanie.html",
+		"/C/Users/user/Desktop/action-mail.php",
+		"/C/Users/user/Desktop/Articles/geodeziya.org/toposemka-uchastka.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/GeologiyaORG/gruntovaya-laboratoriya.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/ГеологияБлог/staticheskoeZondirovanie.html",
+		"/C/Users/user/Desktop/Articles/GeoGis",
+		"/C/Users/user/Desktop/Articles/geoSmolensk/zonaC33.html",
+		"/C/Users/user/Desktop/Articles/GeoRyazan/gidromet.html",
+		"/C/Users/user/Desktop/Articles/GeoRyazan/razrabotka_c33.html",
+		"/C/Users/user/Desktop/Articles/GeoVlad/razrabotka_C33.html",
+		"/C/Users/user/Desktop/Articles/GeoVlad/gidromet.html",
+		"/C/Users/user/Desktop/planet-earth.svg",
+		"/C/Users/user/Desktop/optimisedDrill.svg",
+		"/C/Users/user/Desktop/topo_real.svg",
+		"/C/Users/user/Desktop/nuclear-plant.svg",
+		"/C/Users/user/Desktop/drill.svg",
+		"/C/Users/user/Desktop/factory.svg",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/calculator.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/action-calculator.php",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/action-calculator.php",
+		"/C/Users/user/Desktop/table.html",
+		"/C/Users/user/Desktop/image2vector.svg",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/mail.php",
+		"/C/Users/user/Desktop/svg.html",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/js/calculator.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/js/calculator.min.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/sass/_vars.sass",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/js/scripts.min.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/js/common.min.js",
+		"/C/Users/user/Desktop/drop_menu.html",
+		"/E/program_files/Sublime Text 3/drop_menu.html",
+		"/C/Users/user/Desktop/Срез_по_геооснове_Google_(Poland_pl)_(2018-03-13)_-_(2018-03-06).xlsx",
+		"/C/Users/user/Desktop/Articles/GeoTvar/gidrometeorologicheskie-iziskanija.html",
+		"/C/Users/user/Desktop/Articles/GeoTvar/sanitarnaya-zona.html",
+		"/C/Users/user/Desktop/Articles/Kostroma/sanitarnaya-zona.html",
+		"/C/Users/user/Desktop/Articles/Kostroma/gidrometeorologicheskie-iziskania.html",
+		"/C/Users/user/Desktop/Articles/Vologda/sanitarnaya-zona.html",
+		"/C/Users/user/Desktop/Articles/KalugaGeo/sanitarnaya-zona.html",
+		"/C/Users/user/Desktop/Articles/KalugaGeo/gidrometeorologicheskie-izyskanija.html",
+		"/C/Users/user/Desktop/Articles/KalugaGeo/razrabotka-karerov.html",
+		"/C/Users/user/Desktop/ArticlesGeoYar/gidrometeorologicheskie_izyskania.html",
+		"/C/Users/user/Desktop/ArticlesGeoYar/sanitarnaya-zona.html",
+		"/C/Users/user/Desktop/Articles RSP/shurf-fundamenta.html",
+		"/E/Web/OptimizedHTML2.0/readme.md",
+		"/C/Users/user/Desktop/responsive-html-email-template-master/responsive-html-email-template-master/email.html",
+		"/C/Users/user/Desktop/drill-tip.svg",
+		"/C/Users/user/Desktop/8march.html",
+		"/C/Users/user/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/131/8march[216].html",
+		"/E/Web/jeday7/ready-html/app/js/common.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/mail.php",
+		"/C/Users/user/Desktop/Articles RSP/geologicheskie-izyskaniya-reconstrukciya",
+		"/C/Users/user/Desktop/Articles RSP/geophizicheskie-izyskaniya.html",
+		"/C/Users/user/Desktop/Articles RSP/geophizicheskie-izyskaniya",
+		"/C/Users/user/Desktop/Articles RSP/geo-izyskaniya-lineinyx-objectov.html",
+		"/C/Users/user/Desktop/Articles RSP/geo-izyskaniya-lineinyx-objectov",
+		"/C/Users/user/Desktop/Articles RSP/georadarnoe-lasernoe-skanirovanie.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/ГеологияБлог/Отчет об инженерно-геологических изысканиях",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/ГеологияБлог/Геологические работы",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/TULA/Геологоразведка_участка в_Туле.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/TULA/Геология_участка.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/TULA/Геологические работы_Tula.html",
+		"/C/Users/user/Desktop/Articles GEOLOGIA.ORG/TULA/Articles тула.геология.org.html",
+		"/C/Users/user/Desktop/Полный_срез_ТОПЛАЙН_Google_(Moscow_ru)_.xlsx",
+		"/E/Web/calculator/calculator.html",
+		"/E/Web/calculator/calculator.js",
+		"/E/Web/font-awesome-4.7.0/index.html",
+		"/E/Web/flex/css/flex.css",
+		"/E/Web/flex/flex.html",
+		"/E/Web/backbone/index.html",
+		"/E/Web/Onas/index.html",
+		"/E/Web/MyWork/zadanie.html",
+		"/E/Web/geo-vlad-table-7/css/style.css",
+		"/E/Web/geo-vlad-table-7/index.html",
+		"/C/Users/user/Desktop/Articles тула.геология.org.html",
+		"/C/Users/user/Desktop/.htaccess",
+		"/C/Users/user/Desktop/geo-yar_Index.html",
+		"/C/Users/user/Desktop/Articles RSP/ekologicheskie-izyskaniya.html",
+		"/C/Users/user/Desktop/google30b9fbd8562e69a7.html",
+		"/C/Users/user/Desktop/index.php",
+		"/C/Users/user/Documents/Bitrix24/тест.xlsx",
+		"/C/Users/user/Desktop/Срез_по_геооснове_Google_(Poland_pl)_(2018-01-30)_-_(2018-01-30).xlsx",
+		"/C/Users/user/Desktop/geologicheskie-izyskaniya.html",
+		"/C/Users/user/Desktop/geologiya-pod-fundament.html",
+		"/C/Users/user/Desktop/ocenka-geologicheskix-riskov.html",
+		"/C/Users/user/Desktop/geologorazvedka.html",
+		"/C/Users/user/Desktop/geologiya-uchastka-pod-stroitelstvo.html",
+		"/C/Users/user/Desktop/geologicheskie-raboty.html",
+		"/C/Users/user/Desktop/inzhenerno-gidrometeorologicheskie-izyskaniya.html",
+		"/C/Users/user/Desktop/DistortedButtonEffects-master/js/main.js",
+		"/C/Users/user/Desktop/DistortedButtonEffects-master/css/main.css",
+		"/C/Users/user/AppData/Local/Temp/0.html",
+		"/C/Users/user/Desktop/Срез_по_геооснове_Google_(Poland_pl)_(2018-01-23)_-_(2018-01-23).xlsx",
+		"/E/Web/jeday7/ready-html/app/index.html",
+		"/E/Web/jeday7/ready-html/app/sass/main.sass",
+		"/E/Web/jeday7/ready-html/app/sass/_vars.sass",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/libs/css-hamburgers/_sass/hamburgers/_base.scss",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/sass/_libs.sass",
+		"/E/sites/spectr-geo.ru/public_html/index.php",
+		"/E/sites/spectr-geo.ru/public_html/js/script.js",
+		"/C/Users/user/Desktop/pure-drawer-master/pure-drawer-master/documentation.html",
+		"/C/Users/user/Desktop/pure-drawer-master/pure-drawer-master/dist/index.html",
+		"/C/Users/user/Desktop/pure-drawer-master/pure-drawer-master/Gulpfile.js",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/assets/app/libs/css-hamburgers/dist/hamburgers.css",
+		"/E/Web/OptimizedHTML2.0/app/.ht.access",
+		"/C/Users/user/Desktop/r-s-p1/core/config/config.inc.php",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/config.core.php",
+		"/E/program_files/OpenServer/Open Server 5.2.7/OSPanel/domains/r-s-p/.bowerrc",
+		"/C/Users/user/Desktop/favicons/manifest.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
